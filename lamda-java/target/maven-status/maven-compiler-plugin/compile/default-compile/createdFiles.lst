@@ -1,3 +1,6 @@
+example/Request.class
+objectstream/PersonRequest.class
 example/Hello.class
 example/Response.class
-example/Request.class
+objectstream/App.class
+objectstream/PersonResponse.class
