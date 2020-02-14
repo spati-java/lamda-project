@@ -20,6 +20,8 @@
     <artifactId>aws-lambda-java-events</artifactId>
     <version>1.0.0</version>
 </dependency>
+
+
     <dependency>
     <!-- https://mvnrepository.com/artifact/software.amazon.awssdk/s3 -->
       <groupId>com.amazonaws</groupId>
